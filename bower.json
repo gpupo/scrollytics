@@ -1,0 +1,22 @@
+{
+  "name": "Scrollytics",
+  "main": "scrollytics.js",
+  "version": "0.1",
+  "authors": [
+    "@gpupo"
+  ],
+  "description": "A Google Analytics jQuery plugin for measuring page scrolling percentage.",
+  "keywords": [
+    "analytics",
+    "google-analytics",
+    "tracking"
+  ],
+  "dependencies": {
+    "jquery" : ">=1.8"
+  },  
+  "license": "MIT",
+  "ignore": [
+    "test",
+    "build.sh"
+  ]
+}
