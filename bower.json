@@ -1,7 +1,7 @@
 {
   "name": "Scrollytics",
   "main": "scrollytics.js",
-  "version": "0.1",
+  "version": "1.0.0",
   "authors": [
     "@gpupo"
   ],
