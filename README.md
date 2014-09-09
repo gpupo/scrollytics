@@ -13,7 +13,9 @@ A Google Analytics jQuery plugin for measuring page scrolling percentage
         });
     </script>
 
-``` 
+```
+
+
 
 ## Contributors
 
@@ -23,6 +25,8 @@ A Google Analytics jQuery plugin for measuring page scrolling percentage
 
 MIT, see LICENSE.
 
-## Links
+## Install [Bower Package](http://bower.io/)
 
-* [Bower Package](http://bower.io/) on bower.io
+```UNIX
+bower install scrollytics
+```
